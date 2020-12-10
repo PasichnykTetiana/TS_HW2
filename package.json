@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PasichnykTetiana/TS_HW2.git"
+  },
+  "author": "TA",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "typescript": "^2.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/PasichnykTetiana/TS_HW2/issues"
+  },
+  "homepage": "https://github.com/PasichnykTetiana/TS_HW2#readme"
+}
